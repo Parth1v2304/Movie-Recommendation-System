@@ -1,1 +1,1 @@
-# Movie-Recommendation-System
+# Movie-Recommendation-System-Using-Information-Retrieval
